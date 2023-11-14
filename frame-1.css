@@ -1,0 +1,407 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 143.9rem;
+}.frame-1-d2q {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.frame-1-d2q .auto-group-qjnu-znV {
+  width: 144rem;
+  height: 102.4rem;
+  position: relative;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.frame-1-d2q .auto-group-qjnu-znV .rectangle-7-pQ9 {
+  width: 83.7rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(180deg, rgba(30, 27, 27, 0.6499999762) -0%, rgba(0, 0, 0, 0.7599999905) 100%);
+}
+.frame-1-d2q .auto-group-qjnu-znV .hello-there--Txu {
+  width: 39.3rem;
+  height: 5rem;
+  position: absolute;
+  left: 6.2rem;
+  top: 23.1rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Krona One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-d2q .auto-group-qjnu-znV .im-wendiyan-83T {
+  width: 55.5rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 6.2rem;
+  top: 27.8rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Krona One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-d2q .auto-group-qjnu-znV .rectangle-9-PVB {
+  width: 55.6rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 6.2rem;
+  top: 38.6rem;
+  background-color: #d9d9d9;
+}
+.frame-1-d2q .auto-group-qjnu-znV .graphic-designer-video-graphic-UmX {
+  width: 39.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 14.15rem;
+  top: 39.1rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #1c1a1a;
+  font-family: Krona One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-d2q .auto-group-qjnu-znV .hello-my-name-is-wendiyan-saputra-a-desain-graphic-video-graphic-ho-can-make-like-magazin-poster-and-video-editor-and-you-will-love-to-see-how-i-make-edit-video-Nc1 {
+  width: 71rem;
+  height: 12.5rem;
+  position: absolute;
+  left: 6.2rem;
+  top: 48rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Krona One, 'Source Sans Pro';
+}
+.frame-1-d2q .auto-group-qjnu-znV .rectangle-10-Pn1 {
+  width: 23.3rem;
+  height: 4rem;
+  position: absolute;
+  left: 6.2rem;
+  top: 65.3rem;
+  background-color: #d9d9d9;
+  border-radius: 7.8rem;
+}
+.frame-1-d2q .auto-group-qjnu-znV .here-about-me-WLq {
+  width: 17.2rem;
+  height: 2rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 66.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Krona One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-d2q .frame-2-oKw {
+  width: 144rem;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.frame-1-d2q .frame-2-oKw .wendiyan-JXb {
+  width: 42.5rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 0;
+  top: 5rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Krona One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-d2q .frame-2-oKw .rectangle-11-mg5 {
+  width: 58.6rem;
+  height: 10.4rem;
+  position: absolute;
+  left: 21.2rem;
+  top: 24.9rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.frame-1-d2q .frame-2-oKw .about-me-5Rs {
+  width: 43.9rem;
+  height: 11.5rem;
+  position: absolute;
+  left: 28.1rem;
+  top: 23.9rem;
+  font-size: 9.6rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-d2q .frame-2-oKw .hello-im-wendiyan-saputragraphic-designer-video-grapic-z33 {
+  width: 124.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 39.7rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Krona One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-d2q .frame-2-oKw .i-can-make-design-and-editing-videos-this-is-the-application-that-i-use-4ob {
+  width: 101.4rem;
+  height: 8rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 47.2rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Krona One, 'Source Sans Pro';
+}
+.frame-1-d2q .frame-2-oKw .image-5-vqo {
+  width: 26.6rem;
+  height: 25.9rem;
+  position: absolute;
+  left: 21.2rem;
+  top: 63.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-d2q .frame-2-oKw .image-5-F7P {
+  width: 25.2rem;
+  height: 24.6rem;
+  position: absolute;
+  left: 93.2rem;
+  top: 64.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-d2q .frame-3-K7F {
+  width: 144rem;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.frame-1-d2q .frame-3-K7F .wendiyan-3Z3 {
+  width: 42.5rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 0;
+  top: 5.4rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Krona One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-d2q .frame-3-K7F .image-6-xvu {
+  width: 35.1rem;
+  height: 34.3rem;
+  position: absolute;
+  left: 23.1rem;
+  top: 42.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-d2q .frame-3-K7F .image-6-HyB {
+  width: 35.1rem;
+  height: 34.3rem;
+  position: absolute;
+  left: 86.9rem;
+  top: 42.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-d2q .auto-group-zj1x-2A5 {
+  box-sizing: border-box;
+  padding: 3.3rem 11.1rem 17.5rem 11rem;
+  width: 144rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.frame-1-d2q .auto-group-zj1x-2A5 .image-7-9Eh {
+  margin-bottom: 11.5rem;
+  width: 29.5rem;
+  height: 29.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-d2q .auto-group-zj1x-2A5 .auto-group-a1wx-4Mf {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.frame-1-d2q .auto-group-zj1x-2A5 .auto-group-a1wx-4Mf .artboard-1-2-1Gu {
+  margin-right: 8.4rem;
+  width: 55.5rem;
+  height: 40.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-d2q .auto-group-zj1x-2A5 .auto-group-a1wx-4Mf .artboard-11-2-sK7 {
+  width: 58rem;
+  height: 40.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-d2q .auto-group-xkbx-aUR {
+  width: 144rem;
+  height: 102.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-1-d2q .auto-group-xkbx-aUR .portofolio-8F3 {
+  width: 26.9rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 110.9rem;
+  top: 3rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #ffffff;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-d2q .auto-group-xkbx-aUR .frame-6-xjs {
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #d9d9d9;
+}
+.frame-1-d2q .auto-group-xkbx-aUR .frame-6-xjs .image-7-6bB {
+  width: 29.5rem;
+  height: 29.6rem;
+  position: absolute;
+  left: 9.7rem;
+  top: 3.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-d2q .auto-group-xkbx-aUR .frame-6-xjs .image-7-c3j {
+  width: 55.1rem;
+  height: 39rem;
+  position: absolute;
+  left: 74.3rem;
+  top: 44.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-d2q .auto-group-xkbx-aUR .frame-6-xjs .depan-remake-2-LkR {
+  width: 55.5rem;
+  height: 39rem;
+  position: absolute;
+  left: 9.7rem;
+  top: 44.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-d2q .frame-4-T4M {
+  width: 144rem;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.frame-1-d2q .frame-4-T4M .image-7-y2h {
+  width: 29.6rem;
+  height: 28.9rem;
+  position: absolute;
+  left: 10.8rem;
+  top: 3.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-d2q .frame-4-T4M .image-10-55j {
+  width: 55.5rem;
+  height: 31.3rem;
+  position: absolute;
+  left: 10.8rem;
+  top: 44.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-d2q .frame-4-T4M .image-11-bJy {
+  width: 55.5rem;
+  height: 31.3rem;
+  position: absolute;
+  left: 73.7rem;
+  top: 44.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-d2q .frame-5-ieV {
+  width: 144rem;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.frame-1-d2q .frame-5-ieV .image-7-sGV {
+  width: 29.6rem;
+  height: 28.9rem;
+  position: absolute;
+  left: 10.8rem;
+  top: 3.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-d2q .frame-5-ieV .image-12-byB {
+  width: 55.5rem;
+  height: 31.3rem;
+  position: absolute;
+  left: 10.8rem;
+  top: 45.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-d2q .frame-5-ieV .image-12-YNd {
+  width: 55.5rem;
+  height: 31.3rem;
+  position: absolute;
+  left: 76.7rem;
+  top: 45.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
